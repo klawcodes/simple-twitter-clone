@@ -1,1 +1,1 @@
-# simple-twitter-clone
+# SIMPLE TWITTER CLONE
