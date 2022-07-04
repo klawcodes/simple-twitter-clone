@@ -1,0 +1,61 @@
+.wtf {
+	background: #f5f8fa;
+	border-radius: 15px;
+}
+
+.wtf__block {
+	display: flex;
+	padding: 10px 15px;
+	align-items: center;
+	border-bottom: 1px solid #e6ecf0;
+}
+
+.wtf__block:last-child {
+	border-bottom: none;
+}
+
+.wtf__author-logo {
+	width: 49px;
+	height: 49px;
+	border-radius: 50px;
+	margin-right: 10px;
+}
+
+.wtf__author-name {
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.wtf__author-slug {
+	color: #657786;
+	font-size: 15px;
+}
+
+.wtf__content {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.wtf__heading {
+	font-size: 19px;
+	font-weight: bold;
+	color: #14171a;
+
+}
+
+.wtf__button {
+	border: 1px solid #1da0f2;
+	color: #1da0f2;
+	font-size: 15px;
+	font-weight: 700px;
+	border-radius: 15px;
+	padding: 5px;
+	min-width: 67px;
+	text-align: center;
+}
+
+.wtf__button:hover {
+	background: rgba(29, 161, 242, 0.1);
+	cursor: pointer;
+}
